@@ -12,7 +12,6 @@ Clone or copy the .gitlab-ci.yml file into your Gitlab repository.
 ```
 git clone https://github.com/jamesbower/Flame_SIEM_Pipeline
 ```
-
 ## Dependencies
 
 In order for this to work, make sure your Gitlab runners and project are setup correctly. You will also need to modify the .gitlab-ci.yml to include your proper SIEM credientials.
