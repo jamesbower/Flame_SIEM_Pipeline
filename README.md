@@ -2,6 +2,8 @@
 
 Flame is a SIEM integration tool that enables security professionals to import scanner vulnerability reports into popular SIEMs. 
 
+https://github.com/blazeinfosec/Flame
+
 This project allows Flame to be integrated into a Gitlab CI/CD pipeline for complete automation.
 
 
